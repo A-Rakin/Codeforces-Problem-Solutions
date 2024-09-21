@@ -1,3 +1,3 @@
 # Codeforces-Problem-Solutions
 
-In this repository I will solved some problems which I solve in codeforces.
+In this repository I uploaded some problems which I solved in codeforces.
